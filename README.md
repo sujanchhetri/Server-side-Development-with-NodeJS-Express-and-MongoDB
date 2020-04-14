@@ -9,9 +9,14 @@ In this module you will be introduced to Node, Node modules and the Node HTTP se
 Data, Data, Where art Thou Data?
 This module looks in detail at data storage with MongoDB, the popular NoSQL database. You will learn first about Express generator for scaffolding an Express application. Then you will learn about MongoDB. You will learn how to interact with MongoDB from a Node application. Then you will learn the Mongoose ODM to create schemas and models, and interact with MongoDB server.
 
+## WEEK 3
+Halt! Who goes there?
+This module is dedicated to user authentication. We first develop a full-fledged REST API server with Express, Mongo and Mongoose. Thereafter we examine basic authentication and session-based authentication briefly. We then develop token-based authentication with the support of JSON web tokens and the Passport module.
+
 ## Dependencies
 * ASSIGNMENT-1: `npm i morgan express body-parser`
 * ASSIGNMENT-2: `npm i bluebird body-parser cookie-parser debug express jade mongoose mongoose-currency morgan serve-favicon`
+* ASSIGNMENT-3:npm i bluebird body-parser cookie-parser debug express express-session pug jsonwebtoken mongoose mongoose-currency morgan passport passport-jwt passport-local passport-local-mongoose serve-favicon session-file-store
 
 ## Find the course here:
 * https://www.coursera.org/learn/server-side-nodejs/home/
