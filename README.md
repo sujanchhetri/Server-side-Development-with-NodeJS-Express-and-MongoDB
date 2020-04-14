@@ -21,6 +21,8 @@ In this module we learn about Mongoose population, a way of cross-referencing do
 * ASSIGNMENT-1: `npm i morgan express body-parser`
 * ASSIGNMENT-2: `npm i bluebird body-parser cookie-parser debug express pug mongoose mongoose-currency morgan serve-favicon`
 * ASSIGNMENT-3:`npm i bluebird body-parser cookie-parser debug express express-session pug jsonwebtoken mongoose mongoose-currency morgan passport passport-jwt passport-local passport-local-mongoose serve-favicon session-file-store`
+* ASSIGNMENT 4:`npm i bluebird body-parser cookie-parser cors debug express express-session pug jsonwebtoken mongoose mongoose-currency morgan multer passport passport-facebook-token passport-jwt passport-local passport-local-mongoose serve-favicon session-file-store`
+#### NOTE:For ASSIGNMENT 4...setup an App by going to https://developers.facebook.com/apps/ and register your app by following the instructions there and obtain your App ID and App Secret. Then Paste the App ID in public/index.html and both the ID and Secret in config.js.
 
 ## Find the course here:
 * https://www.coursera.org/learn/server-side-nodejs/home/
