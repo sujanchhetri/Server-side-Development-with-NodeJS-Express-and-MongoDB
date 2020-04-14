@@ -13,6 +13,10 @@ This module looks in detail at data storage with MongoDB, the popular NoSQL data
 Halt! Who goes there?
 This module is dedicated to user authentication. We first develop a full-fledged REST API server with Express, Mongo and Mongoose. Thereafter we examine basic authentication and session-based authentication briefly. We then develop token-based authentication with the support of JSON web tokens and the Passport module.
 
+## Week 4
+Backend as a Service (BaaS)
+In this module we learn about Mongoose population, a way of cross-referencing documents and populating the documents from other documents. We then review secure communication using HTTPS. We look at Backend as a Service (BaaS) and take a brief look at Loopback.
+
 ## Dependencies
 * ASSIGNMENT-1: `npm i morgan express body-parser`
 * ASSIGNMENT-2: `npm i bluebird body-parser cookie-parser debug express jade mongoose mongoose-currency morgan serve-favicon`
