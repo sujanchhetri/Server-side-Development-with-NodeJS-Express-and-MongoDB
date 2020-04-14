@@ -19,7 +19,7 @@ In this module we learn about Mongoose population, a way of cross-referencing do
 
 ## Dependencies
 * ASSIGNMENT-1: `npm i morgan express body-parser`
-* ASSIGNMENT-2: `npm i bluebird body-parser cookie-parser debug express jade mongoose mongoose-currency morgan serve-favicon`
+* ASSIGNMENT-2: `npm i bluebird body-parser cookie-parser debug express pug mongoose mongoose-currency morgan serve-favicon`
 * ASSIGNMENT-3:`npm i bluebird body-parser cookie-parser debug express express-session pug jsonwebtoken mongoose mongoose-currency morgan passport passport-jwt passport-local passport-local-mongoose serve-favicon session-file-store`
 
 ## Find the course here:
